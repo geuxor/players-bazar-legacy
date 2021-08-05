@@ -29,15 +29,18 @@
   },
   "jest": {
     "testEnvironment": "jest-environment-node",
-    "collectCoverageFrom": ["*.js"],
+    "collectCoverageFrom": [
+      "*.js"
+    ],
     "coverageThreshold": {
       "global": {
         "statements": 50,
         "branches": 50,
-        "functions": 50, 
+        "functions": 50,
         "lines": 100
       }
-    }},
+    }
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
