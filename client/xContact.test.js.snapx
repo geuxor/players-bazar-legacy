@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<section
+  className="sc-bdnxRM ebHyMv"
+>
+  <div
+    className="section-center"
+  >
+    <h3>
+      Join us and be the first one to find out about players on offer!
+    </h3>
+    <div
+      className="content"
+    >
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sit vel nisi possimus quas hic quibusdam inventore excepturi, perspiciatis, repellat qui non. Magni ducimus earum officiis porro consectetur est nostrum!
+      </p>
+      <form
+        action="https://formspree.io/f/mwkarvdn"
+        className="contact-form"
+        method="POST"
+      >
+        <input
+          className="form-input"
+          name="_replyto"
+          placeholder="enter email"
+          type="email"
+        />
+        <button
+          className="submit-btn"
+          type="submit"
+        >
+          subscribe
+        </button>
+      </form>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`Something happens 1`] = `
+<section
+  className="sc-bdnxRM ebHyMv"
+>
+  <div
+    className="section-center"
+  >
+    <h3>
+      Join us and be the first one to find out about players on offer!
+    </h3>
+    <div
+      className="content"
+    >
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sit vel nisi possimus quas hic quibusdam inventore excepturi, perspiciatis, repellat qui non. Magni ducimus earum officiis porro consectetur est nostrum!
+      </p>
+      <form
+        action="https://formspree.io/f/mwkarvdn"
+        className="contact-form"
+        method="POST"
+      >
+        <input
+          className="form-input"
+          name="_replyto"
+          placeholder="enter email"
+          type="email"
+        />
+        <button
+          className="submit-btn"
+          type="submit"
+        >
+          subscribe
+        </button>
+      </form>
+    </div>
+  </div>
+</section>
+`;
